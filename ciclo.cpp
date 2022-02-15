@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std();
 main(){
-int contatore = 0;
+int c = 0;
 for(int i = 0; i < 10; i++){
-contatore++;
+c++;
 }
 
-cout<<"Questo e' iltuo contatore :" << contatore << endl;
+cout<<"Questo e' iltuo contatore :" << c << endl;
 
 
 
